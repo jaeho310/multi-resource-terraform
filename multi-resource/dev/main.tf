@@ -1,4 +1,4 @@
-module "main" {
+module "dev" {
   source = "../main"
   workspace = local.workspace
 }
